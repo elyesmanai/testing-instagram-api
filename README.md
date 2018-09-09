@@ -1,1 +1,1 @@
-# testing-instagram-api
+# Instagram-Finder
